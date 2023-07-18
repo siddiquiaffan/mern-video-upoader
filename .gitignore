@@ -1,0 +1,23 @@
+node_modules
+package-lock.json
+
+# client
+client/dist
+client/node_modules
+client/package-lock.json
+client/.env
+
+# server
+server/build
+server/node_modules
+server/package-lock.json
+server/.env
+
+# lambda-function
+lambda-function/.aws-sam
+lambda-function/node_modules
+lambda-function/package-lock.json
+lambda-function/.env
+
+# production
+production

@@ -1,0 +1,20 @@
+{
+  "name": "mern-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js --install",
+    "start": "node server/build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "shelljs": "^0.8.5"
+  }
+}
